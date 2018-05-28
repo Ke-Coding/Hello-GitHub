@@ -1,2 +1,2 @@
 # Hello-GitHub
-Meet the first day!
+Commemorate the first day!
